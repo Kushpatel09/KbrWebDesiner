@@ -1,0 +1,273 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    height: 4rem;
+    width: 100%;
+    background-color: #2B6BE7;
+}
+
+.head1{
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.section1{
+    height: 90%;
+    width: 100%;
+    background-color: #888C93;
+
+}
+
+.head2{
+    height: 90%;
+    width: 100%;
+    background-color: #888C93;
+}
+
+.head3{
+    margin-top: 15rem;
+}
+
+.head4{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 4rem;
+    font-family: Arial Rounded MT;
+}
+
+.head5{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 3.5rem;
+    font-family: Arial Rounded MT;
+}
+
+.head6{
+    align-items: center;
+    margin-top: 1rem;
+    word-spacing: 0.5rem;
+    font-size: 1.5rem;
+    font-family: Arial;
+    justify-content: center;
+    display: flex;
+}
+
+.head7{
+    align-items: center;
+    word-spacing: 0.5rem;
+    font-size: 1.5rem;
+    font-family: Arial;
+    justify-content: center;
+    display: flex;
+}
+
+.head8{
+    background-color: transparent;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.head9{
+    background-color: transparent;
+    border: 1px solid rgb(0, 0, 0);
+    height: 3rem;
+    width: 7rem;
+    border-radius: 10px;
+}
+
+.head9:hover{
+    background-color: #FFFFFF;
+    color: black;
+}
+
+.section2{
+    height: 100%;
+    width: 100%;
+    background-color: #FFFFFF;
+    display: flex;
+}
+
+.left{
+    height: 100%;
+    display: flex;
+    width: 50%;
+}
+
+.head10{
+    margin: 25rem 0rem 0rem 12rem;
+}
+
+.right{
+    height: 100%;
+    width: 50%;
+    display: flex;
+}
+
+
+
+.head13{
+    margin: 15rem 0rem 0rem 10rem;
+}
+
+.head12{
+    font-size: 3rem;
+    font-family: serif;
+    font-family: Arial Rounded MT;
+}
+
+.head11{
+    padding-right: 2rem;
+    font-size: 1.5rem;
+    text-align: justify;
+    margin-top: 2rem;
+    font-family: Arial;
+}
+
+.head14{
+    margin-top: 2rem;
+    padding-right: 2rem;
+    font-size: 1.5rem;
+    text-align: justify;   
+    font-family: Arial;
+}
+
+.head15{
+    background-color: transparent;
+    border: 1px solid rgb(0, 0, 0);
+    height: 3rem;
+    width: 7rem;
+    border-radius: 10px;
+    margin-top: 2rem;
+}
+
+.head15:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.section3{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.head19{
+    height: 100%;
+    width: 50%;
+}
+
+.head18{
+    height: 50%;
+    width: 20%;
+    margin: 5rem 0rem 0rem 10rem;
+}
+
+.head16{
+    margin: 5rem 0rem 0rem 10rem;
+    font-family: Arial Rounded MT;
+    font-size: 3rem;
+}
+
+.head17{
+    height: 32rem;
+    width: 16rem;
+}
+
+.head20{
+    margin-top: 1rem;
+}
+
+.head21{
+    height: 100%;
+    width: 50%;
+}
+
+.head22{
+    margin-top: 10rem;
+    height: 32rem;
+    width: 16rem;
+}
+
+.head23{
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 1.5rem;
+    height: 4rem;
+    width: 8%;
+    display: flex;
+}
+
+.head24{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 92%;
+}
+
+.section4{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.head25{
+    height: 60%;
+    width: 60%;
+    margin: 0rem 0rem 0rem 30rem;
+    font-size: 1.5rem;
+    text-align: justify;
+    font-family: Arial Rounded MT;
+    padding: 15rem 4rem 4rem 4rem;
+}
+
+.head27{
+    height: 10%;
+    width: 10%;
+    display: block;    
+}
+
+footer{
+    height: 20%;
+    width: 100%;
+    background-color: #2B6BE7;
+}
+
+.head28{
+    height: 20%;
+    width: 100%;
+}
+
+.head29{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: #FFFFFF;
+}
+
+.head30{
+    height: 100%;
+    width: 100%;
+    font-size: 2rem;
+}
+
+.head31{
+    margin-left: 4rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.head32{
+    margin-left: 52rem;
+    margin-top: 2rem;
+}
