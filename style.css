@@ -165,37 +165,7 @@
         color: #000;
     }
 
-    .box3{
-        height: 50rem;
-        padding: 10%;
-        width: 80%;
-    }
-
-    .box33{
-        background-image: url(img3.jpeg);
-        background-position: center;
-        background-size: cover;
-        height: 100%;
-        width: 100%;
-    }
-    
-    .box333{
-        height: 100%;
-        width: 100%;
-        background-color: #272729ae;
-    }
-
-    .box3-con{
-        height: 10%;
-        width: 100%;
-    }
-
-    .box3-con3{
-        padding-top: 1rem;
-        font-size: 3rem;
-        color: #000;
-    }
-
+ 
     footer{
         height: 10%;
         width: 100%;
